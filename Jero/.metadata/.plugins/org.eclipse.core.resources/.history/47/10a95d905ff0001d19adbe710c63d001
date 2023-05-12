@@ -1,0 +1,9 @@
+package co.edu.uco.publiuco.service.usercase.ciudad;
+
+import co.edu.uco.publiuco.service.domain.CiudadDomain;
+
+public interface RegistrarCiudad {
+
+	void execute(CiudadDomain domain);
+
+}

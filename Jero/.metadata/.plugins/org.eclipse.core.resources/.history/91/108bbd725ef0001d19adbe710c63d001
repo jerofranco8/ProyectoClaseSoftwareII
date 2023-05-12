@@ -1,0 +1,8 @@
+package co.edu.uco.publiuco.service.usercase.ciudad.implementation;
+
+import co.edu.uco.publiuco.service.usercase.ciudad.RegistrarCiudad;
+
+public class RegistrarCiudadUseCaseImpl implements RegistrarCiudad{
+	
+	@Autowired
+}

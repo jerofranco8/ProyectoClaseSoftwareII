@@ -1,3 +1,19 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+j
+:src/co/edu/uco/publiuco/service/usercase/package-info.java,8\0\804351b11d8f270771b505df1fbebce58d42fea0
+w
+Gsrc/co/edu/uco/publiuco/service/usercase/departamento/package-info.java,d\b\db6fa1085e49321fedb74c0dc1fae7f098382832
+t
+Dsrc/co/edu/uco/publiuco/service/usercase/ciudad/RegistrarCiudad.java,5\d\5dd70549d0edfa52480a5219f98c59e1bfa5853a
+€
+Psrc/co/edu/uco/publiuco/service/usercase/ciudad/implementation/package-info.java,f\2\f26486835c588b32b040f5a714c801450f0b9db2
+Ž
+^src/co/edu/uco/publiuco/service/usercase/ciudad/implementation/RegistrarCiudadUseCaseImpl.java,3\9\397c6c248f558d5f009494329943f3665a6b0c0a
+h
+8src/co/edu/uco/publiuco/service/domain/CiudadDomain.java,e\4\e43276997015959be0aaf080a10234d1f208633f
+e
+5src/co/edu/uco/publiuco/service/usercase/UseCase.java,8\6\867561bd8ae9efaed3bf5fb1b872b0c6eff8412c
+i
+9src/co/edu/uco/publiuco/service/usercase/UseCaseList.java,c\4\c43d1f51c9967f42fba7658f547c8cf7a1a3e1a6
