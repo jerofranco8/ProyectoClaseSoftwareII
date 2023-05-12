@@ -7,11 +7,18 @@
     <fullyQualifiedTypeName name="co.edu.uco.publiuco.entity.PaisEntity"/>
     <fullyQualifiedTypeName name="co.edu.uco.publiuco.entity.DepartamentoEntity"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
-    <fullyQualifiedTypeName name="co.edu.uco.publiuco.service.usercase.ciudad.RegistrarCiudad"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="co.edu.uco.publiuco.repository.CiudadRepository"/>
-    <fullyQualifiedTypeName name="co.edu.uco.publiuco.service.domain.CiudadDomain"/>
     <fullyQualifiedTypeName name="co.edu.uco.publiuco.entity.CiudadEntity"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="co.edu.uco.publiuco.service.usercase.UseCase"/>
+    <fullyQualifiedTypeName name="co.edu.uco.publiuco.service.usercase.UseCaseList"/>
+    <fullyQualifiedTypeName name="co.edu.uco.publiuco.service.usercase.ciudad.ListarCiudades"/>
+    <fullyQualifiedTypeName name="co.edu.uco.publiuco.service.facade.UseCaseFacade"/>
+    <fullyQualifiedTypeName name="co.edu.uco.publiuco.service.usercase.ciudad.RegistrarCiudad"/>
+    <fullyQualifiedTypeName name="co.edu.uco.publiuco.service.facade.ciudad.RegistrarCiudadUseCaseFacade"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="jakarta.transaction.Transactional"/>
+    <fullyQualifiedTypeName name="co.edu.uco.publiuco.dto.CiudadDTO"/>
+    <fullyQualifiedTypeName name="co.edu.uco.publiuco.service.domain.CiudadDomain"/>
 </qualifiedTypeNameHistroy>
